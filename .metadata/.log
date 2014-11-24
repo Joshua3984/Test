@@ -1,0 +1,60 @@
+!SESSION 2014-11-24 15:52:14.612 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide 1 0 2014-11-24 15:52:47.778
+!MESSAGE Workbench start-up time: 14.86s, Main window shown after: 14.10s.
+
+!ENTRY com.windriver.ide.common.core 1 0 2014-11-24 15:52:49.846
+!MESSAGE Workbench license obtained in 0.24s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide.core 4 0 2014-11-24 15:52:52.735
+!MESSAGE Error generating build defaults: no build specs provided for managed build!
+
+!ENTRY com.windriver.ide.core 4 0 2014-11-24 15:52:54.080
+!MESSAGE Error generating build defaults: no build specs provided for managed build!
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:53:02.744
+!MESSAGE C:\WindRiver\workbench-3.3\foundation\x86-win32\bin\wtxregd.exe
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:53:05.506
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-Developer -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:53:08.242
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:50274, PID=3292, Session="dfw-wb331-Developer"
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:53:09.363
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+!SESSION 2014-11-24 15:59:02.456 -----------------------------------------------
+eclipse.buildId=M20110311-1130/WB20110622-1135
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.windriver.ide.core 4 0 2014-11-24 15:59:49.305
+!MESSAGE Error generating build defaults: no build specs provided for managed build!
+
+!ENTRY com.windriver.ide.core 4 0 2014-11-24 15:59:49.382
+!MESSAGE Error generating build defaults: no build specs provided for managed build!
+
+!ENTRY com.windriver.ide.common.core 1 0 2014-11-24 15:59:49.965
+!MESSAGE Workbench license obtained in 0.02s, vendor information: <ln>78202</ln><flt>1</flt><ps>1851-1</ps>
+
+!ENTRY com.windriver.ide 1 0 2014-11-24 15:59:50.017
+!MESSAGE Workbench start-up time: 22.69s, Main window shown after: 21.71s.
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:59:50.048
+!MESSAGE C:\WindRiver\workbench-3.3\dfw\\x86-win32\bin\dfwserver.exe  -protocol mi -io sockets -useregistry -session dfw-wb331-Developer -registryhost 127.0.0.1
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:59:50.166
+!MESSAGE Connected to Wind River debug server backend at 127.0.0.1, 127.0.0.1:50440, PID=3856, Session="dfw-wb331-Developer"
+
+!ENTRY com.windriver.ide.target 1 0 2014-11-24 15:59:50.282
+!MESSAGE Wind River Debug Server API Version '2.12.0' (build name 'DFW_BUILD_3_3_1_21 - 06/23/2011 12:29:11')
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-11-24 16:00:38.250
+!MESSAGE Indexed 'SimpleTemplate' (1 sources, 224 headers) in 16.05 sec: 21,584 declarations; 26,829 references; 0 unresolved inclusions; 0 syntax errors; 80 unresolved names (0.16%)
