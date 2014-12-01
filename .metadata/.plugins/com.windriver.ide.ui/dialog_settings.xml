@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="WRProjectWizard">
+		<item value="C/C++ Application" key="WRGenericProjectWizardBuildTypePage.STORE_SELECTED_BUILD_TYPE"/>
+		<item value="Host OS (Native Development)" key="WRGenericProjectWizardBuildTypePage.STORE_SELECTED_PLATFORM"/>
+		<item value="Host OS (Native Development)" key="WRTargetOSWizardPage.STORE_SELECTED_PLATFORM"/>
+		<list key="WRWizardNewProjectCreationPage.STORE_PROJECT_LOCATION">
+			<item value="C:\Robot-Projects\New-Testerino"/>
+		</list>
 	</section>
 </section>
